@@ -11,22 +11,20 @@ O objetivo é criar uma base sólida para o desenvolvimento de aplicações back
 
 ## Tecnologias Utilizadas
 
-- **Node.js**: Ambiente de execução JavaScript.
-- **Express**: Framework para criação de servidores.
-- **TypeScript**: Superset de JavaScript que adiciona tipagem estática.
-- **JavaScript**: Linguagem base para o desenvolvimento do servidor.
-
-## Estrutura do Projeto
+- `Node.js`: Ambiente de execução JavaScript.
+- `Express`: Framework para criação de servidores.
+- `TypeScript`: Superset de JavaScript que adiciona tipagem estática.
+- `JavaScript`: Linguagem base para o desenvolvimento do servidor.
 
 ## Estrutura do Projeto
 
 ```plaintext
 ├── src
 │   └── (arquivos TypeScript do servidor)
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── tsconfig.json
+├── .gitignore (arquivo para ignorar arquivos e pastas no Git)
+├── package.json (gerenciamento de dependências e scripts)
+├── package-lock.json (versões exatas das dependências)
+├── tsconfig.json (configurações do TypeScript)
 ```
 ## Execução
 
