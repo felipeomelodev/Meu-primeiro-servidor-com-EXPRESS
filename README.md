@@ -11,10 +11,10 @@ O objetivo é criar uma base sólida para o desenvolvimento de aplicações back
 
 ## Tecnologias Utilizadas
 
-`Node.js`: Ambiente de execução JavaScript.
-`Express`: Framework para criação de servidores.
-`TypeScript`: Superset de JavaScript que adiciona tipagem estática.
-`JavaScript`: Linguagem base para o desenvolvimento do servidor.
+- **Node.js**: Ambiente de execução JavaScript.
+- **Express**: Framework para criação de servidores.
+- **TypeScript**: Superset de JavaScript que adiciona tipagem estática.
+- **JavaScript**: Linguagem base para o desenvolvimento do servidor.
 
 ## Estrutura do Projeto
 
