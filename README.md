@@ -1,12 +1,12 @@
 # Meu Primeiro Servidor com Express
 
-Este projeto é uma implementação básica de um servidor utilizando [Express](https://expressjs.com/), com `TypeScript`. 
+Este projeto é uma implementação básica de um servidor utilizando [Express](https://expressjs.com/), com TypeScript. 
 O objetivo é criar uma base sólida para o desenvolvimento de aplicações backend.
 
 ## Funcionalidades
 
 - Configuração de servidor básico com Express.
-- Suporte a `TypeScript` e `JavaScript`.
+- Suporte a TypeScript e JavaScript.
 - Organização de arquivos e pastas seguindo boas práticas.
 
 ## Tecnologias Utilizadas
@@ -18,14 +18,16 @@ O objetivo é criar uma base sólida para o desenvolvimento de aplicações back
 
 ## Estrutura do Projeto
 
-**plaintext**
-├── src
-│   └── (arquivos TypeScript do servidor)  # Arquivo principal do servidor
-├── .gitignore # Arquivo para ignorar arquivos e pastas no Git
-├── package.json # Gerenciamento de dependências e scripts
-├── package-lock.json # Versões exatas das dependências
-├── tsconfig.json # Configurações do TypeScript
+## Estrutura do Projeto
 
+```plaintext
+├── src
+│   └── (arquivos TypeScript do servidor)
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+```
 ## Execução
 
 Para rodar o servidor em modo de desenvolvimento, utilize o seguinte comando:
